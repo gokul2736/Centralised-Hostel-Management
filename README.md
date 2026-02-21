@@ -2,6 +2,11 @@
 To handle the Floor Incharge later without rewriting our code, we will implement Role-Based Access Control (RBAC)
 
 
+
+<img width="882" height="383" alt="image" src="https://github.com/user-attachments/assets/ec5217c2-fbcb-4dfa-9fc4-dcc6b0a1862b" />
+
+
+
 1. The "BookMyShow" Visual Layout & Concurrency
 To prevent server crashes and double-bookings, we need an in-memory datastore to act as a high-speed shock absorber before any data hits your permanent database.
 
